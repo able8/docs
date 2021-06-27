@@ -200,7 +200,6 @@ https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/ch
 - `:wqall` `:wqa` save and close all files
 - `:qall!` `:qa!` close all files without saving
 - `:[range]delete [register]` `:[r]d [r]` delete multiple lines into register
-
 - `@:` repeat last ex command
 - `@@` after repeating it once, you can continue repeating with this
 
@@ -247,7 +246,6 @@ https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/ch
 - `ds"` delete surrounding quotes
 - `cs*tem>` change surrounding * for the tag
 - `ysiw"` surround word under the cursor with quotes
-
 - `S` In visual mode you can select some text, then type S to add surroundings. e.g. Stp> to wrap the selection in a tag
 
 ## Custom mappings (they need to be added to your config)
